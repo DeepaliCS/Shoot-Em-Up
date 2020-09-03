@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/CS_Level_3/CS3005-DigitalMediaAndGames/Shoot-Em-Up/Shoot-Em-UpCode/Shoot-Em-Up-VS/Shoot-Em-Up-MonoGameTool/explosion.png</File>
+    <File>E:/CS_Level_3/CS3005-DigitalMediaAndGames/Shoot-Em-Up/Shoot-Em-UpCode/Shoot-Em-Up-VS/Shoot-Em-Up-MonoGameTool/health.png</File>
+    <File>E:/CS_Level_3/CS3005-DigitalMediaAndGames/Shoot-Em-Up/Shoot-Em-UpCode/Shoot-Em-Up-VS/Shoot-Em-Up-MonoGameTool/PlayerScore.spritefont</File>
+    <File>E:/CS_Level_3/CS3005-DigitalMediaAndGames/Shoot-Em-Up/Shoot-Em-UpCode/Shoot-Em-Up-VS/Shoot-Em-Up-MonoGameTool/Level.spritefont</File>
+    <File>E:/CS_Level_3/CS3005-DigitalMediaAndGames/Shoot-Em-Up/Shoot-Em-UpCode/Shoot-Em-Up-VS/Shoot-Em-Up-MonoGameTool/enemyship.png</File>
+    <File>E:/CS_Level_3/CS3005-DigitalMediaAndGames/Shoot-Em-Up/Shoot-Em-UpCode/Shoot-Em-Up-VS/Shoot-Em-Up-MonoGameTool/rocket.png</File>
+    <File>E:/CS_Level_3/CS3005-DigitalMediaAndGames/Shoot-Em-Up/Shoot-Em-UpCode/Shoot-Em-Up-VS/Shoot-Em-Up-MonoGameTool/asteroid.png</File>
+    <File>E:/CS_Level_3/CS3005-DigitalMediaAndGames/Shoot-Em-Up/Shoot-Em-UpCode/Shoot-Em-Up-VS/Shoot-Em-Up-MonoGameTool/heart.png</File>
+    <File>E:/CS_Level_3/CS3005-DigitalMediaAndGames/Shoot-Em-Up/Shoot-Em-UpCode/Shoot-Em-Up-VS/Shoot-Em-Up-MonoGameTool/GameMusic.mp3</File>
+    <File>E:/CS_Level_3/CS3005-DigitalMediaAndGames/Shoot-Em-Up/Shoot-Em-UpCode/Shoot-Em-Up-VS/Shoot-Em-Up-MonoGameTool/explosmp3.mp3</File>
+    <File>E:/CS_Level_3/CS3005-DigitalMediaAndGames/Shoot-Em-Up/Shoot-Em-UpCode/Shoot-Em-Up-VS/Shoot-Em-Up-MonoGameTool/Shootingmp3.mp3</File>
+    <File>E:/CS_Level_3/CS3005-DigitalMediaAndGames/Shoot-Em-Up/Shoot-Em-UpCode/Shoot-Em-Up-VS/Shoot-Em-Up-MonoGameTool/Collisionmp3.mp3</File>
+    <File>E:/CS_Level_3/CS3005-DigitalMediaAndGames/Shoot-Em-Up/Shoot-Em-UpCode/Shoot-Em-Up-VS/Shoot-Em-Up-MonoGameTool/GameOvermp3.mp3</File>
+    <File>E:/CS_Level_3/CS3005-DigitalMediaAndGames/Shoot-Em-Up/Shoot-Em-UpCode/Shoot-Em-Up-VS/Shoot-Em-Up-MonoGameTool/TitleScreen.mp3</File>
+    <File>E:/CS_Level_3/CS3005-DigitalMediaAndGames/Shoot-Em-Up/Shoot-Em-UpCode/Shoot-Em-Up-VS/Shoot-Em-Up-MonoGameTool/start.png</File>
+    <File>E:/CS_Level_3/CS3005-DigitalMediaAndGames/Shoot-Em-Up/Shoot-Em-UpCode/Shoot-Em-Up-VS/Shoot-Em-Up-MonoGameTool/Background.png</File>
+    <File>E:/CS_Level_3/CS3005-DigitalMediaAndGames/Shoot-Em-Up/Shoot-Em-UpCode/Shoot-Em-Up-VS/Shoot-Em-Up-MonoGameTool/Gameover.png</File>
+    <File>E:/CS_Level_3/CS3005-DigitalMediaAndGames/Shoot-Em-Up/Shoot-Em-UpCode/Shoot-Em-Up-VS/Shoot-Em-Up-MonoGameTool/bullet.png</File>
+  </SourceFiles>
+</SourceFileCollection>
