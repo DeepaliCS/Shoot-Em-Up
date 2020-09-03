@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shoot-Em-Up", "Shoot-Em-Up\Shoot-Em-Up.csproj", "{63D1E7D6-25C5-4DB5-B776-2F35DF2E5436}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63D1E7D6-25C5-4DB5-B776-2F35DF2E5436}.Debug|x86.ActiveCfg = Debug|x86
+		{63D1E7D6-25C5-4DB5-B776-2F35DF2E5436}.Debug|x86.Build.0 = Debug|x86
+		{63D1E7D6-25C5-4DB5-B776-2F35DF2E5436}.Release|x86.ActiveCfg = Release|x86
+		{63D1E7D6-25C5-4DB5-B776-2F35DF2E5436}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F76B089-CEBC-4268-A081-9E01265593E0}
+	EndGlobalSection
+EndGlobal
