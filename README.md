@@ -6,6 +6,7 @@ This project was inspired by a classic game of space invaders. Create using C# o
 
 1. Clone repository
 2. If on Windows, load up a code editor like Visual Studio or VS Code, simply run it
+  - If on Linux (like Ubuntu)
   - May need additional installations and windows server drivers to run it, or dockerize as an image
 
 ## Usage
