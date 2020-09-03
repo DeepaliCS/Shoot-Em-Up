@@ -18,6 +18,9 @@ Space bar to shoot asteroids
 Aim of the Game:
 Get to level 3 without losing health, shoot as many asteroids as you can and try and get a high score!
 
+## Demo
+View the demo of the game! (video.mp4) 
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change, including the physics, game rules, and any addition features of the game.
 
