@@ -21,6 +21,9 @@ Get to level 3 without losing health, shoot as many asteroids as you can and try
 ## Demo
 View the demo of the game! (video.mp4) 
 
+## Video Screenshots
+![menu](images/menu.png) ![game_in_action](images/game_in_action.png) ![game_over](images/game_over.png)
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change, including the physics, game rules, and any addition features of the game.
 
